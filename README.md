@@ -72,4 +72,4 @@ See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
-Made with ❤️ by Mohammad Waris (#).
+Made with ❤️ by Rahul (#).
